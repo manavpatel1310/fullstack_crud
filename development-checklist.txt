@@ -1,0 +1,29 @@
+✅ Project Setup
+   - Installed Node.js, Express, Mongoose
+   - Connected to MongoDB (Atlas or Local)
+
+✅ Backend Development
+   - Created Express Routes (CRUD operations)
+   - Implemented MongoDB Schema
+   - Added Data Validation
+
+✅ Frontend Development
+   - Created Pug Templates (Add, Update, List Users)
+   - Used Bootstrap for Styling
+
+✅ Features Implemented
+   - User can add, update, delete, and view records
+   - Edit and delete buttons working properly
+
+✅ Security Measures
+   - MongoDB connection secured with credentials
+   - Password not stored in public code
+
+✅ Final Testing
+   - Successfully added and edited users
+   - UI elements and navigation tested
+
+✅ Submission Preparation
+   - Added project documentation
+   - Included screenshots of all pages
+   - Removed `node_modules/` folder from submission
